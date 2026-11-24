@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# secrets
+.env
+.aws/
+*credentials*.csv
+*accessKeys*.csv
+*.zip
+.DS_Store
